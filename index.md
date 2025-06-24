@@ -1,3 +1,3 @@
 ---
-Vikram Singh, Ph.D.
+title: Vikram Singh, Ph.D.
 ---
